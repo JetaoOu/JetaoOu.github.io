@@ -57,5 +57,7 @@ excerpt_separator: "\n\n\n\n"
 
 # paginate
 plugins: [jekyll-paginate]
-paginate: 6 #每页显示 6 篇文章
-port: 4001 #jekyll启动端口号
+#每页显示 6 篇文章
+paginate: 6
+#jekyll启动端口号
+port: 4001
