@@ -14,13 +14,13 @@ tag: 教程
 一、步骤    {#buzou}
 ====================================================
 
-###1.官网下载Windows 64位版本oracle11g R2     {#downlode-buzou}
-
+  1.官网下载Windows 64位版本oracle11g R2     {#downlode-buzou}
+---------
 地址：
 
 
-###2.两个文件解压到同一文件夹      {#jieya-buzou}
-
+  2.两个文件解压到同一文件夹      {#jieya-buzou}
+-------
 
 3.双击setup.exe开始安装     {#anzhuang-buzou}
 ------------------------
